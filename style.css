@@ -1,0 +1,71 @@
+#Title{
+    font-family: tahoma;
+    font-size:400%;
+    vertical-align: middle;
+    padding-top: 15%;
+}
+#Publications{
+    font-family: tahoma;
+    font-size: 150%;
+    vertical-align: middle;
+}
+#Subtitle{
+    font-family: tahoma;
+    font-size: 150%;
+}
+#Top{
+    background-color: purple; 
+    text-align: center;
+    height: 100vh;
+    width: 100vw;
+    display: table;
+}
+#PDF1{
+    border-radius:10%;
+}
+/* #Section-head{
+    font-family: tahoma;
+    font-size: 200%;
+    text-align: center;
+    padding-top: 15px;
+}
+#Maps{
+    background-color: #ac68cc;
+    margin-top: -32px;
+}
+#Mail{
+    text-align: center;
+}
+#Mail:hover{
+    width: 105px;
+    height: 105px;
+}
+#Run1{
+    border-radius: 25%;
+}
+#Caption{
+    font-family:tahoma;
+    color: white;
+    font-size:125%;
+}
+#Wrap{
+    padding-left: 160px;
+    display: inline-block;
+}
+#Run2{
+    border-radius: 25%;
+    text-align: center;
+
+}
+#Run3{
+    border-radius:25%;
+}
+#Rightwrap{
+    display: inline-block;
+    padding-left: 215px;
+}
+#Roster{
+    text-align: center;
+    background-color: #d6b4e7;
+    margin-top: -32px;
+}  */
